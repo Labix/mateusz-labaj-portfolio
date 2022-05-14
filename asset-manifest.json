@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Labix/mateusz-labaj-portfolio.git/static/css/main.adf84ee2.css",
+    "main.js": "/Labix/mateusz-labaj-portfolio.git/static/js/main.effe6edf.js",
+    "static/js/787.1297335f.chunk.js": "/Labix/mateusz-labaj-portfolio.git/static/js/787.1297335f.chunk.js",
+    "static/media/man.jpg": "/Labix/mateusz-labaj-portfolio.git/static/media/man.de635a412cbc67843a02.jpg",
+    "static/media/boy.jpg": "/Labix/mateusz-labaj-portfolio.git/static/media/boy.93d329e4f5789b757e64.jpg",
+    "static/media/girl.jpg": "/Labix/mateusz-labaj-portfolio.git/static/media/girl.2b4ec2a6eb9793833c8a.jpg",
+    "static/media/woman.jpg": "/Labix/mateusz-labaj-portfolio.git/static/media/woman.4534e5ad3f27f54b38fb.jpg",
+    "static/media/ja.jpg": "/Labix/mateusz-labaj-portfolio.git/static/media/ja.58386454d068f4b178e5.jpg",
+    "index.html": "/Labix/mateusz-labaj-portfolio.git/index.html",
+    "main.adf84ee2.css.map": "/Labix/mateusz-labaj-portfolio.git/static/css/main.adf84ee2.css.map",
+    "main.effe6edf.js.map": "/Labix/mateusz-labaj-portfolio.git/static/js/main.effe6edf.js.map",
+    "787.1297335f.chunk.js.map": "/Labix/mateusz-labaj-portfolio.git/static/js/787.1297335f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adf84ee2.css",
+    "static/js/main.effe6edf.js"
+  ]
+}
